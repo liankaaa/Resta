@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Resta.Form1" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACACAACAAAIAAAAEEQAAAEAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resta.MainPage" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACgCAISIMA5BCAAEHEOAABAAAA=</HashCode>
+      <FileName>MainPage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+      <Property Name="Waiter" />
+      <Property Name="ReservTable" />
+      <Property Name="Personal" />
+      <Property Name="Shipment" />
+      <Property Name="ReservHall" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Resta.Personal" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACgAABCIAAIAAAAEEAAAABAAAA=</HashCode>
+      <FileName>Personal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resta.ReservHall" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAABAQQACAAAACBAAYCAAAAmAAAAAAAAA=</HashCode>
+      <FileName>ReservHall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resta.ReservTable" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAABAAAACgAAASBAAYAAAAAmAAAAIAAAA=</HashCode>
+      <FileName>ReservTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resta.Shipment" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAgACAAAACAAA4AAAAEHAAAABAAAA=</HashCode>
+      <FileName>Shipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resta.Waiter" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAACAAAQgAAACAQAACAMw7AAAAwHAvAABAAAA=</HashCode>
+      <FileName>Waiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
